@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Michel_tp04</string>
+    <string name="nom">Michel</string>
+    <string name="prenom">Alexandre</string>
+    <string name="b01">B01</string>
+    <string name="b02">B02</string>
+    <string name="ok">OK</string>
+    <string name="g01">G01</string>
+    <string name="g02">G02</string>
+    <string name="g03">G03</string>
+    <string name="g04">G04</string>
 </resources>
